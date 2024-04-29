@@ -1,0 +1,9 @@
+MAC State Checker v1.2Github
+remove shortcut and list
+integrate into Github
+
+MAC State Checker v1.1
+Add shortcut and list
+
+MAC State Checker v1.0
+-Debt Green states Alabama | Arkansas | Arizona | California | Colorado | Connecticut | Delaware | Florida | Georgia Hawaii | Iowa | Idaho | Illinois | Indiana | Kansas | Kentucky | Louisiana | Massachusetts | Maryland | Maine | Marshall Islands | Michigan | Minnesota | Missouri | Mississippi | Montana | North Carolina | North Dakota | Nebraska | New Hampshire | New Jersey | New Mexico | Nevada | New York | Ohio | Oklahoma | Pennsylvania | South Carolina | South Dakota | Tennessee | Texas | Utah | Virginia | Virgin Islands | Washington | Wisconsin | Wyoming
